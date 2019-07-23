@@ -1,0 +1,173 @@
+#heading{
+	/*border: 5px solid green;
+	/*width: 150px;*/
+	height: 50px;
+	float: right;
+	color: white;
+	font-size: 25px;
+
+}
+
+#headingDiv{
+	width: 300px;
+	background-color: ;
+	align-content: left;
+	padding-left: 500px; 
+}
+
+
+h1{
+	padding-left: 450px;
+	font-family: serif;
+	color: white;
+	font-size: 50px;
+}
+
+#DateLabel{
+
+	/** padding-left: 700px;
+
+		 float: right;
+	margin-right: 1px; **/
+}
+
+#date{
+
+
+
+ /** float: right; 
+	/** position: relative; 
+	margin-right: 1px;
+	float: right; **/
+}
+
+
+
+.div{
+	border: 5px solid orange;
+	padding-left: 15px;
+	margin-top: 5px;
+	font-family: serif;
+	width: 265px;
+	border-radius: 15px;
+	padding-right: 25px;
+
+	/*transform: translate(500px, 0px);*/
+
+}
+
+.itemlist{
+	padding-left: 55px;
+}
+
+.itemlist li{
+	margin: 5px;
+}
+
+li input{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-color: white;
+	opacity: 0.7;
+	size: 150px;
+	width: 185px;
+	background-color:transparent;
+
+}
+
+#nameAndDate{
+	border-radius: 3px;
+	box-shadow: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	
+	width: 200px;
+}
+
+#namedate{
+	border: 3px solid blue;
+
+	/* id for a the removed div containing Name input and Date input*/
+	}
+
+@font-face{
+	font-family: myfont;
+	src: url (sansation_bold.woff);
+}
+
+.maindiv{
+	transform: translate(0px, 0px);
+	height: 1200px;
+	background-color: white;
+	width: 500px;
+	margin-left: 300px;
+	padding-left: 200px;
+	margin-right: 300px;
+	/*overflow: scroll;*/
+	border-radius: 60px;
+	padding-top: 35px;
+
+}
+
+body {
+
+	background-color: orange;
+}
+
+#edgelogo{
+	border-style: ridge;
+	border-radius: 5px;
+}
+
+.div h3{
+color: black;
+text-align: center;
+font-size: 25px;
+}
+
+#divquestion {
+
+}
+
+#record{
+
+	width: 80px;
+	height: 50px;
+	color: white;
+	font-size: 20px;
+	margin-top: 10px;
+	border-radius: 8px;
+	background-color: green;
+	margin-left: 80px;
+	transition-duration: .3s;
+}
+
+#reset{
+
+	transition-duration: .3s;
+	width: 80px;
+	height: 50px;
+	color: white;
+	font-size: 20px;
+	margin-top: 10px;
+	border-radius: 8px;
+	background-color: red;
+	opacity: 0.8;
+
+}
+
+#record:hover {
+
+	background-color: white;
+	color:orange;
+	text-decoration: underline;
+	font-size: 30px;
+}
+
+#reset:hover{
+	background-color: black;
+	color:red;
+	font-size: 10px;
+}
